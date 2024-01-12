@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/Naim75o/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/R4AT/count.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/Naim75o)
-- [![GitHub followers](https://img.shields.io/github/followers/Naim75o.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/R4AT)
+- [![GitHub followers](https://img.shields.io/github/followers/R4AT.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/R4AT?tab=followers)
 
